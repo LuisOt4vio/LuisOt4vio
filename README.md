@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luís Otávio👋
 ### Contatos
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissotavioreis14@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/035_luisotavio)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/035_luisotavio/)
 
 ![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisOt4vio&show_icons=true&theme=dracula)
 
