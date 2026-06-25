@@ -1,16 +1,21 @@
-## Olá! Eu sou o Luís Otávio👋
-### Contatos
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissotavioreis14@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/035_luisotavio/)
+## Olá! Eu sou o Luís Otávio
 
-![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisOt4vio&show_icons=true&theme=dracula)
+Cientista da Computação formado pelo IFSULDEMINAS. Tenho forte interesse e experiência prática em Inteligência Artificial e Visão Computacional (trabalhando com modelos como EfficientNet e U-Net aplicados a imagens médicas), além de desenvolvimento de projetos voltados para acessibilidade digital, como o mapeamento de regionalismos em LIBRAS.
 
-## Tecnologias que uso no meu dia a dia
+### Tecnologias e Ferramentas
 <div style="display: inline-block"><br>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="latex" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
 </div><br>
 
-Apaixonado por Tecnologias WEB. <br>
-Cursando Ciência da Computação, estou atualmente no 6º Período.
+### Estatísticas do GitHub
+![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisOt4vio&show_icons=true&theme=dracula)
+
+### Contatos
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissotavioreis14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/035_luisotavio/)
