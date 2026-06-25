@@ -12,7 +12,7 @@ Cientista da Computação formado pelo IFSULDEMINAS. Possuo experiência prátic
 </div><br>
 
 ### Estatísticas do GitHub
-![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisOt4vio&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisOt4vio&layout=compact&theme=dracula)](https://github.com/LuisOt4vio)
 
 ### Contatos
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissotavioreis14@gmail.com)
