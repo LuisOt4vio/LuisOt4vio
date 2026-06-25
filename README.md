@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luís Otávio
 
-Cientista da Computação formado pelo IFSULDEMINAS. Tenho forte interesse e experiência prática em Inteligência Artificial e Visão Computacional (trabalhando com modelos como EfficientNet e U-Net aplicados a imagens médicas), além de desenvolvimento de projetos voltados para acessibilidade digital, como o mapeamento de regionalismos em LIBRAS.
+Cientista da Computação formado pelo IFSULDEMINAS. Possuo experiência prática no desenvolvimento de soluções diversificadas, que vão desde sistemas aplicados até pesquisa em Inteligência Artificial. Entre meus projetos, destacam-se o "Donate Found", um mini sistema de doações, o desenvolvimento de um compilador para drones estruturado em Java, e a aplicação de Visão Computacional na área médica (utilizando modelos como EfficientNet e U-Net para classificação de câncer em tomografias). Também atuo na criação de ferramentas focadas em acessibilidade digital, como projetos de mapeamento de regionalismos em LIBRAS.
 
 ### Tecnologias e Ferramentas
 <div style="display: inline-block"><br>
@@ -16,5 +16,5 @@ Cientista da Computação formado pelo IFSULDEMINAS. Tenho forte interesse e exp
 
 ### Contatos
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luissotavioreis14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ot%C3%A1vio-633031328/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/035_luisotavio/)
