@@ -1,5 +1,4 @@
-<!-- COLE O LINK DA IMAGEM QUE VOCÊ GEROU NO PASSO 2 DENTRO DAS ASPAS DO SRC ABAIXO -->
-<img src="LINK_DA_SUA_IMAGEM_AQUI" alt="Banner Luís Otávio" width="100%">
+<img src="Banner/luisbanner.png" alt="Banner Luís Otávio" width="100%">
 
 <br>
 
