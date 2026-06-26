@@ -1,4 +1,4 @@
-<img src="Banner/luisbanner.png" alt="Banner Luís Otávio" width="100%">
+<img src="Banner/luisbn.png" alt="Banner Luís Otávio" width="100%">
 
 <br>
 
