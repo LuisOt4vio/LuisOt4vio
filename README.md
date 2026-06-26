@@ -4,7 +4,7 @@
 
 > [!NOTE]
 > **About me**
-> Bem-vindo ao meu perfil do GitHub! Sou Cientista da Computação formado pelo IFSULDEMINAS. Tenho experiência prática no desenvolvimento de soluções diversificadas, desde sistemas aplicados até pesquisa em Inteligência Artificial. Dentre meus projetos, destaco o "Donate Found" (um mini sistema de doações), o desenvolvimento de um compilador para drones estruturado em Java e a aplicação de Visão Computacional na área médica (EfficientNet e U-Net). Também atuo na criação de ferramentas focadas em acessibilidade digital.
+> Welcome to my GitHub! I'm a Computer Science graduate from IFSULDEMINAS passionate about software development, Artificial Intelligence, and problem-solving. Here you'll find projects involving Python, Java, JavaScript, HTML/CSS, Bootstrap, computer vision, and web development, ranging from academic research to practical applications. I'm always looking to improve my skills by building clean, efficient, and user-focused solutions.
 
 ### My Go-To Technologies
 
