@@ -4,7 +4,7 @@
 
 > [!NOTE]
 > **About me**
-> Welcome to my GitHub! I'm a Computer Science graduate from IFSULDEMINAS passionate about software development, Artificial Intelligence, and problem-solving. Here you'll find projects involving Python, Java, JavaScript, HTML/CSS, Bootstrap, computer vision, and web development, ranging from academic research to practical applications. I'm always looking to improve my skills by building clean, efficient, and user-focused solutions.
+> I'm a Computer Science graduate from IFSULDEMINAS passionate about software development, Artificial Intelligence, and problem-solving. Here you'll find projects involving Python, Java, JavaScript, HTML/CSS, Bootstrap, computer vision, and web development, ranging from academic research to practical applications. I'm always looking to improve my skills by building clean, efficient, and user-focused solutions.
 
 ### My Go-To Technologies
 
